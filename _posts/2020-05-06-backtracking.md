@@ -8,7 +8,6 @@ header-img: "img/post-bg-algorithm.jpg"
 catalog: true
 tags:
     - 回溯
-    - 算法
 ---
 
 # 回溯
