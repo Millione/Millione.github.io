@@ -85,8 +85,6 @@ Output:
 ]
 ```
 
-[Discussion](https://leetcode.com/problems/subsets/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/subsets/solution/)
-
 **Code:**
 
 ```java
@@ -150,8 +148,6 @@ Output:
   []
 ]
 ```
-
-[Discussion](https://leetcode.com/problems/subsets-ii/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/subsets-ii/solution/)
 
 **Code:**
 
@@ -224,8 +220,6 @@ Output:
 ]
 ```
 
-[Discussion](https://leetcode.com/problems/permutations/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/permutations/solution/)
-
 **Code:**
 
 ```java
@@ -290,8 +284,6 @@ Output:
   [2,1,1]
 ]
 ```
-
-[Discussion](https://leetcode.com/problems/permutations-ii/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/permutations-ii/solution/)
 
 **Code:**
 
@@ -369,8 +361,6 @@ Output:
 ]
 ```
 
-[Discussion](https://leetcode.com/problems/combinations/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/combinations/solution/)
-
 **Code:**
 
 ```java
@@ -445,8 +435,6 @@ A sudoku puzzle...
 - The given board contain only digits `1-9` and the character `'.'`.
 - You may assume that the given Sudoku puzzle will have a single unique solution.
 - The given board size is always `9x9`.
-
-[Discussion](https://leetcode.com/problems/sudoku-solver/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/sudoku-solver/solution/)
 
 **Code:**
 
@@ -544,8 +532,6 @@ Output: [
 Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above.
 ```
 
-[Discussion](https://leetcode.com/problems/n-queens/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/n-queens/solution/)
-
 **Code:**
 
 ```java
@@ -641,8 +627,6 @@ Given word = "SEE", return true.
 Given word = "ABCB", return false.
 ```
 
-[Discussion](https://leetcode.com/problems/word-search/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/word-search/solution/)
-
 **Code:**
 
 ```java
@@ -724,8 +708,6 @@ For example, given *n* = 3, a solution set is:
   "()()()"
 ]
 ```
-
-[Discussion](https://leetcode.com/problems/generate-parentheses/discuss/?currentPage=1&orderBy=most_votes&query=) | [Solution](https://leetcode.com/problems/generate-parentheses/solution/)
 
 **Code:**
 
