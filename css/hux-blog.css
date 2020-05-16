@@ -301,14 +301,14 @@ button.paper-button {
 }
 .highlight,
 pre.highlight {
-  background: #282c34;
+  background: #f7f7f7;
   color: #abb2bf;
 }
 .highlight pre {
-  background: #282c34;
+  background: #f7f7f7;
 }
 .highlight .hll {
-  background: #282c34;
+  background: #f7f7f7;
 }
 .highlight .c {
   color: #5c6370;
