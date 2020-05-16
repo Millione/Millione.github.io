@@ -511,7 +511,7 @@ pre.highlight {
   font-size: 14px;
   line-height: 1.5;
   color: #555;
-  background: transparent;
+  background: #eee;
   border: 0;
   margin: 0;
   padding: 0;
@@ -522,7 +522,7 @@ pre.highlight {
   border: 0 !important;
 }
 .highlighter-rouge .highlight .rouge-code pre {
-  color: #abb2bf;
+  color: #2a2e2e;
 }
 .highlighter-rouge .highlight .table-responsive {
   margin: 0px;
