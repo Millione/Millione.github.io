@@ -647,6 +647,7 @@ Given word = "ABCB", return false.
 **Code:**
 
 ```java
+{% raw %}
 /*
  * @lc app=leetcode id=79 lang=java
  *
@@ -702,6 +703,7 @@ class Solution {
     }
 }
 // @lc code=end
+{% endraw %}
 ```
 
 ## 题目
