@@ -882,6 +882,7 @@ class Solution:
 #### cpp
 
 ```cpp
+{% raw %}
 class Solution {
 public:
     vector<vector<int>> dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
@@ -917,11 +918,13 @@ public:
     }
     
 };
+{% endraw %}
 ```
 
 #### java
 
 ```java
+{% raw %}
 class Solution {
     private int[][] dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
     private int m, n;
@@ -955,6 +958,7 @@ class Solution {
         return false;
     }
 }
+{% endraw %}
 ```
 
 #### python
